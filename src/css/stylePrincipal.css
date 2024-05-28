@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #F2E9EB;
+    color:#32383F
+}
+
+#Navbar{
+background-color:transparent;    
+}
+
+.container{
+    position: relative;
+    left: 80px;
+    background-color: #FEDD89;
+    width: 40px;
+    padding: 10rem;
+    margin: 20px;
+    border:#32383F ridge 2px;
+    border-radius: 10%;
+}
